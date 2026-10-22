@@ -1,5 +1,5 @@
 import re
-import pytesseract
+import pytesseract# Connects Python to Teseeract OCR Engine
 
 
 # Configure the Tesseract OCR executable for Windows.
