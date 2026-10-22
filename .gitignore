@@ -1,0 +1,32 @@
+Python
+
+pycache/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+Virtual environment
+
+venv/
+.venv/
+
+Environment variables and secrets
+
+.env
+.env.*
+
+Uploaded and processed ID images
+
+uploads/
+processed_faces/
+
+Local database containing extracted records
+
+records.db
+*.db
+
+IDE and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
